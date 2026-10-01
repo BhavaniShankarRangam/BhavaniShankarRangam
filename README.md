@@ -127,8 +127,4 @@
   <img src="https://streak-stats.demolab.com/?user=BhavaniShankarRangam&hide_border=true&background=0d1117&ring=7f5af0&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhavaniShankarRangam&bg_color=0d1117&color=a78bfa&line=7f5af0&point=ffffff&area=true&area_color=302b63&hide_border=true" width="95%"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:302b63,100:0f0c29&height=110&section=footer" width="100%"/>

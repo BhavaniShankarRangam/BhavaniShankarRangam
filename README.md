@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7f5af0&height=200&section=header&text=Bhavani%20Shankar%20Rangam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20RAG%20%E2%80%A2%20LLM%20Orchestration&descAlignY=58&descSize=17" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=I+build+agents+that+reason%2C+retrieve+and+act.;LangGraph+%E2%80%A2+Multi-Agent+%E2%80%A2+Human-in-the-Loop;RAG+pipelines+grounded+in+real+data.;From+prototype+to+production+on+AWS+%7C+Azure+%7C+GCP." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=Applied+AI+Practitioner;AI%2FML+Engineer;LLM+%26+Agentic+AI+Systems;LLM+Orchestration;Chicago%2C+IL+%F0%9F%8C%86" alt="Typing SVG" />
 </p>
 
 <p align="center">

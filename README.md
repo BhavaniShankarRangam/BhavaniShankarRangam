@@ -15,17 +15,9 @@
 
 ### 🧬 `whoami`
 
-```python
-class BhavaniShankar:
-    role       = "AI/ML Engineer — Generative & Agentic AI"
-    experience = "6+ years: enterprise automation → cloud → production AI"
-    building   = ["Meridian AI", "multi-agent systems", "RAG pipelines"]
-    toolkit    = ["LangChain", "LangGraph", "FastAPI", "pgvector", "AWS Bedrock"]
-    focus      = "LLM reasoning + retrieval + evaluation + observability"
-
-    def philosophy(self):
-        return "Reliable AI is engineered, not prompted."
-```
+<p align="center">
+  <img src="assets/whoami.svg" alt="whoami" width="100%"/>
+</p>
 
 ### ⚡ What I Do
 

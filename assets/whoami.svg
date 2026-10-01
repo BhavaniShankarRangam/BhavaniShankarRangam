@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="monospace" width="900" height="388" viewBox="0 0 900 388">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7f5af0"/><stop offset="1" stop-color="#302b63"/></linearGradient>
+<style>
+text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:15.5px;white-space:pre}
+.l{opacity:0;animation:in .45s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+.c{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+</style></defs>
+<rect x="1" y="1" width="898" height="386" rx="14" fill="#0d1117" stroke="url(#g)" stroke-width="2"/>
+<rect x="1" y="1" width="898" height="40" rx="14" fill="#161b22"/><rect x="1" y="28" width="898" height="13" fill="#161b22"/>
+<line x1="1" y1="41" x2="899" y2="41" stroke="#30363d"/>
+<circle cx="26" cy="21" r="6.5" fill="#ff5f56"/><circle cx="48" cy="21" r="6.5" fill="#ffbd2e"/><circle cx="70" cy="21" r="6.5" fill="#27c93f"/>
+<text x="450.0" y="26" text-anchor="middle" fill="#8b949e" style="font-size:13px">whoami.py — bhavani@meridian-ai</text>
+<text x="22" y="78" fill="#484f58" style="font-size:13px"> 1</text>
+<text class="l" x="52" y="78" style="animation-delay:0.20s"><tspan fill="#ff79c6">class </tspan><tspan fill="#c4b5fd">BhavaniShankar</tspan><tspan fill="#c9d1d9">:</tspan></text>
+<text x="22" y="105" fill="#484f58" style="font-size:13px"> 2</text>
+<text x="22" y="132" fill="#484f58" style="font-size:13px"> 3</text>
+<text class="l" x="52" y="132" style="animation-delay:0.70s"><tspan fill="#8be9fd">    role       </tspan><tspan fill="#c9d1d9">= </tspan><tspan fill="#a6e3a1">"AI/ML Engineer — Generative &amp; Agentic AI"</tspan></text>
+<text x="22" y="159" fill="#484f58" style="font-size:13px"> 4</text>
+<text class="l" x="52" y="159" style="animation-delay:0.95s"><tspan fill="#8be9fd">    experience </tspan><tspan fill="#c9d1d9">= </tspan><tspan fill="#a6e3a1">"6+ years: enterprise automation → cloud → production AI"</tspan></text>
+<text x="22" y="186" fill="#484f58" style="font-size:13px"> 5</text>
+<text class="l" x="52" y="186" style="animation-delay:1.20s"><tspan fill="#8be9fd">    building   </tspan><tspan fill="#c9d1d9">= </tspan><tspan fill="#94a3b8">[</tspan><tspan fill="#a6e3a1">"Meridian AI"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a6e3a1">"multi-agent systems"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a6e3a1">"RAG pipelines"</tspan><tspan fill="#94a3b8">]</tspan></text>
+<text x="22" y="213" fill="#484f58" style="font-size:13px"> 6</text>
+<text class="l" x="52" y="213" style="animation-delay:1.45s"><tspan fill="#8be9fd">    toolkit    </tspan><tspan fill="#c9d1d9">= </tspan><tspan fill="#94a3b8">[</tspan><tspan fill="#a6e3a1">"LangChain"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a6e3a1">"LangGraph"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a6e3a1">"FastAPI"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a6e3a1">"pgvector"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a6e3a1">"AWS Bedrock"</tspan><tspan fill="#94a3b8">]</tspan></text>
+<text x="22" y="240" fill="#484f58" style="font-size:13px"> 7</text>
+<text class="l" x="52" y="240" style="animation-delay:1.70s"><tspan fill="#8be9fd">    focus      </tspan><tspan fill="#c9d1d9">= </tspan><tspan fill="#a6e3a1">"LLM reasoning + retrieval + evaluation + observability"</tspan></text>
+<text x="22" y="267" fill="#484f58" style="font-size:13px"> 8</text>
+<text x="22" y="294" fill="#484f58" style="font-size:13px"> 9</text>
+<text class="l" x="52" y="294" style="animation-delay:2.20s"><tspan fill="#ff79c6">    def </tspan><tspan fill="#fbbf24">philosophy</tspan><tspan fill="#94a3b8">(</tspan><tspan fill="#ff79c6">self</tspan><tspan fill="#94a3b8">)</tspan><tspan fill="#c9d1d9">:</tspan></text>
+<text x="22" y="321" fill="#484f58" style="font-size:13px">10</text>
+<text class="l" x="52" y="321" style="animation-delay:2.45s"><tspan fill="#ff79c6">        return </tspan><tspan fill="#a6e3a1">"Reliable AI is engineered, not prompted."</tspan></text>
+<text x="22" y="348" fill="#484f58" style="font-size:13px">11</text><rect class="c" x="52" y="334" width="9" height="18" fill="#a78bfa"/>
+</svg>

@@ -123,8 +123,8 @@
 ### 📊 GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhavaniShankarRangam&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=7f5af0&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavaniShankarRangam&hide_border=true&background=0d1117&ring=7f5af0&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="165"/>
+  <img src="assets/now.svg" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=BhavaniShankarRangam&hide_border=true&background=0d1117&ring=7f5af0&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="165"/>
 </p>
 
 <p align="center">

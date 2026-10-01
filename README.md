@@ -123,8 +123,16 @@
 ### 📊 GitHub Pulse
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhavaniShankarRangam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavaniShankarRangam&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=BhavaniShankarRangam&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
   <img src="assets/now.svg" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=BhavaniShankarRangam&hide_border=true&background=0d1117&ring=7f5af0&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="165"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:302b63,100:0f0c29&height=110&section=footer" width="100%"/>

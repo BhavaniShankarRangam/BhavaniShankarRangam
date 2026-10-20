@@ -90,6 +90,8 @@
 | | Project | What it does | Stack |
 |:-:|---|---|---|
 | 🧭 | **Meridian AI** | Production AI application | Python · LangGraph · RAG · FastAPI |
+| 🎯 | **[TalentMatch AI](https://github.com/BhavaniShankarRangam/Talentmatch-ai)** | Screens resumes against a recruiter-approved rubric with explainable 0–100 scores, prompt-injection screening and PII redaction | Python · FastAPI · SQLAlchemy · React · TypeScript |
+| 🛡️ | **[InsurePilot AI](https://github.com/BhavaniShankarRangam/InsurePilot-AI)** · [live demo](https://shankar5155-insurepilot-ai.hf.space) | AI insurance co-pilot: a LangGraph supervisor routes to specialist agents, with hybrid RAG (pgvector + BM25, reranking) for cited answers | Python · LangGraph · FastAPI · pgvector · Next.js |
 
 ---
 
